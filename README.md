@@ -10,3 +10,4 @@ This project includes an analysis of sales data using SQL and Python.
 
 ## Tableau Public
 You can view the interactive visualizations on [Tableau Public]([your-tableau-public-url](https://public.tableau.com/views/Sale_project/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)).
+https://public.tableau.com/views/Sale_project/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
