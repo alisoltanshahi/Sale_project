@@ -18,7 +18,20 @@ The Jupyter Notebook `Sale_project.ipynb` contains the Python code for data anal
 - **Data Loading:** Importing the CSV file into a Pandas DataFrame.
 - **Data Exploration:** Summarizing and exploring the dataset.
 - **Visualization:** Creating charts and graphs to visualize sales trends and patterns.
+  
+## Data
 
+The dataset contains various fields including Order Date, Category, City, Country, Customer ID, Customer Name, Order ID, Ship Mode, State, Sub-Category, Costs, Discount, Profit, and Sales.
+
+## Analysis
+
+The Jupyter Notebook performs the following analyses:
+- Loading and displaying the dataset.
+- Cleaning and preprocessing the data.
+- Analyzing sales performance based on different categories and regions.
+- Visualizing key metrics and trends.
+- A/B testing
+  
 ### CSV Data
 The CSV file `Updated_Sales_p.csv` contains the raw sales data used for analysis. It includes fields such as transaction ID, date, customer ID, product ID, quantity, and sales amount.
 
